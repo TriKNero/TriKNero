@@ -67,8 +67,7 @@ I like taking ownership, designing systems end-to-end, and shipping things that 
 ---
 
 ## 📫 Contact Me
-
-- GitHub: https://github.com/TriKNero  
+ 
 - LinkedIn: https://www.linkedin.com/in/kristian-korneev-920b34121/  
 - Telegram: https://t.me/krisnero  
 - Email: krisnerodev@gmail.com  
