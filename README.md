@@ -76,6 +76,6 @@ I like taking ownership, designing systems end-to-end, and shipping things that 
 
 ## ⚡ Fun Fact
 
-I enjoy building things that scale, debugging weird production issues, and occasionally diving into Web3 experiments.
+I enjoy building things that scale, debugging weird production issues, and occasionally diving into AI experiments.
 
 Also into DnD, Magic: The Gathering and digital nomad life 🌍
