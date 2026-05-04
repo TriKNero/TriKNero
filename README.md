@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kristian Korneev
+# Hi 👋 I'm Kris
 
 Full Stack Engineer (React / Node.js) with 10+ years of experience building high-load, production-grade web applications.
 
