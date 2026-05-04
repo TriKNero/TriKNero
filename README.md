@@ -67,11 +67,11 @@ I like taking ownership, designing systems end-to-end, and shipping things that 
 ---
 
 ## 📫 Contact Me
- 
-- LinkedIn: https://www.linkedin.com/in/kristian-korneev-920b34121/  
-- Telegram: https://t.me/krisnero  
-- Email: krisnerodev@gmail.com  
 
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/TriKNero)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-korneev-920b34121/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?logo=telegram&logoColor=white)](https://t.me/krisnero)
+[![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white)](mailto:krisnerodev@gmail.com)
 ---
 
 ## ⚡ Fun Fact
