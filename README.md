@@ -48,23 +48,7 @@ I like taking ownership, designing systems end-to-end, and shipping things that 
 ![Cursor](https://img.shields.io/badge/-Cursor-000)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?logo=openai)
 
----
 
-## 🧩 Projects & Experience
-
-- 🌍 ton.org / builders.ton.org  
-  Built localization system (Strapi + Crowdin), reduced page creation time from 1 day → ~1 hour  
-
-- 💰 Telegram Mini App (TON)  
-  Built frontend from scratch for memecoin trading app  
-
-- 🧪 Load testing tool (Astraload)  
-  Worked on core architecture and performance  
-
-- 🖥 Chrome Extension + Electron App  
-  Built from scratch (~30k MAU), used by Coinbase & DoorDash  
-
----
 
 ## 📫 Contact Me
 
